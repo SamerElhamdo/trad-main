@@ -85,11 +85,4 @@
 - [ ] Historical data collection and storage
 
 ---
-
-## Additional Features
-
-- [ ] Multi-trading support (Spot, Limit Orders)
-- [ ] Separate wallet per contest
-- [ ] Data export for external analysis
-- [ ] Full API documentation
-- [ ] WebSocket support for real-time updates
+by samer elhamdo
